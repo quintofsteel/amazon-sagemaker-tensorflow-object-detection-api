@@ -1,7 +1,7 @@
 ## TensorFlow 2 Object Detection API SageMaker
 
 ### Overview
-In this repository, we use [Amazon SageMaker](https://aws.amazon.com/sagemaker) to build, train, and deploy an [EfficientDet](https://arxiv.org/abs/1911.09070) model using the [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). It is built on top of TensorFlow 2 that makes it easy to construct, train and deploy object detection models.
+In this repository, we use [Amazon SageMaker](https://aws.amazon.com/sagemaker) to build train, and deploy an [EfficientDet](https://arxiv.org/abs/1911.09070) model using the [TensorFlow Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection). It is built on top of TensorFlow 2 that makes it easy to construct, train and deploy object detection models.
 It also provides the TensorFlow 2 Detection [Model Zoo](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/tf2_detection_zoo.md) which is a collection of pre-trained detection models we can use to accelerate our endeavour.
 
 This implementation shows how to do the following:
